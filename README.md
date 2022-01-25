@@ -17,7 +17,8 @@ ldid -SEntitlements.plist ceserver
 ./ceserver
 ```
 
-Set native_ceserver_ip in frida-ceserver's config.json to the iphone's ip address.
+Set native_ceserver_ip in frida-ceserver's config.json to the iphone's ip address.  
+Specify the port number 52734.  
 
 Cheat Engine <-> frida-ceserver <-> ceserver
 
